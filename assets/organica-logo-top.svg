@@ -1,13 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 170">
-<rect width="300" height="170" fill="white"/>
-<g transform="translate(92 4) scale(.78)" fill="none" stroke="#6e3377" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 190">
+<g fill="none" stroke="#6e3377" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" transform="translate(12 25) scale(1.85)">
 <path d="M12 49 27 34"/><path d="M18 54 31 41"/><path d="M10 39c-3-3-7-1-8 2 0 3 2 5 5 5"/>
-<path d="M17 34c-2-2-2-5 0-7 2-2 5-2 7 0"/>
-<path d="M24 38c5-3 9-7 12-12"/>
+<path d="M17 34c-2-2-2-5 0-7 2-2 5-2 7 0"/><path d="M24 38c5-3 9-7 12-12"/>
 <path d="M25 38c-1-6 2-12 7-17C40 13 49 8 61 8c0 12-5 21-13 29-5 5-11 8-17 7"/>
 <path d="M48 10c1 6 4 10 10 12"/><circle cx="46" cy="21" r="4.2"/>
 <path d="M34 44c0 6-3 10-8 13"/><path d="M25 28c-5 0-9 2-13 6"/><path d="M34 38c-3 1-6 1-9 0"/>
 </g>
-<text x="150" y="126" text-anchor="middle" font-family="Arial, sans-serif" font-size="40" font-weight="800" fill="#ed531b">Orgânica</text>
-<text x="178" y="151" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" font-weight="500" fill="#6e3377">Marketing</text>
+<text x="205" y="104" font-family="Manrope,Arial,sans-serif" font-size="58" font-weight="800" fill="#ed531b">Orgânica</text>
+<text x="350" y="145" font-family="Manrope,Arial,sans-serif" font-size="28" font-weight="600" fill="#6e3377">Marketing</text>
 </svg>
